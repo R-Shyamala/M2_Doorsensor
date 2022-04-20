@@ -1,1 +1,2 @@
-
+## DOOR OPEN - LED ON
+## DOOR CLOSE - LED OFF
