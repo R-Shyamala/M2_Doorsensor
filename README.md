@@ -2,13 +2,12 @@
 
 # BADGES
 
-# Code Quality ![Code Quality score]()
+# Code Quality ![Code Quality score](https://api.codiga.io/project/32884/score/svg)
 
-# Code Grade ![Code Grade]()
+# Code Grade ![Code Grade](https://api.codiga.io/project/32884/status/svg)
 
-# Codacy ![Codacy Badge]()
-
-# Cppcheck Analysis
+# Codacy 
+# Cppcheck Analysis [![Cppcheck Analysis](https://github.com/R-Shyamala/M2_Doorsensor/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/R-Shyamala/M2_Doorsensor/actions/workflows/cppcheck.yml)
 
 # IN ACTION
 # DOOR OPEN 
