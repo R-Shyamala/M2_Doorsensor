@@ -8,7 +8,7 @@
 
 # Codacy 
 # Cppcheck Analysis [![Cppcheck Analysis](https://github.com/R-Shyamala/M2_Doorsensor/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/R-Shyamala/M2_Doorsensor/actions/workflows/cppcheck.yml)
-# Linux 
+# Linux [![Build-Linux](https://github.com/R-Shyamala/M2_Doorsensor/actions/workflows/linux.yml/badge.svg)](https://github.com/R-Shyamala/M2_Doorsensor/actions/workflows/linux.yml)
 
 # IN ACTION
 # DOOR OPEN 
