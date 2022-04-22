@@ -6,7 +6,7 @@
 
 # Code Grade ![Code Grade](https://api.codiga.io/project/32884/status/svg)
 
-# Codacy 
+# Codacy [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8a2f0fdf33034e63a42600f2a4af0ece)](https://www.codacy.com/gh/R-Shyamala/M2_Doorsensor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=R-Shyamala/M2_Doorsensor&amp;utm_campaign=Badge_Grade)
 # Cppcheck Analysis [![Cppcheck Analysis](https://github.com/R-Shyamala/M2_Doorsensor/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/R-Shyamala/M2_Doorsensor/actions/workflows/cppcheck.yml)
 # Linux [![Build-Linux](https://github.com/R-Shyamala/M2_Doorsensor/actions/workflows/linux.yml/badge.svg)](https://github.com/R-Shyamala/M2_Doorsensor/actions/workflows/linux.yml)
 
