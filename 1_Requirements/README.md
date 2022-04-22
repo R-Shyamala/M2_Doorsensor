@@ -5,6 +5,12 @@ Door sensor have been used now-a-days in many hosues.Door sensors are an essenti
 
 This project is about building an embedded product called door sensor. This project will be very usefull and indicate our door is closed properly or not. When the door is open the LED will be ON, at that time LED acts as an indication that our door is open. If we close the door LED will be OFF.
 
+## OBJECTIVES:
+
+* Door sensor's can be used in may places such as home, hospital,offices etc,.
+* Security is high because we used LED as a indicator.
+* Door sensor's are being used a lot due to its high security.
+
 ## COMPONENTS:
 
 * ATmega328
@@ -35,6 +41,20 @@ The term "light emitting diode" refers to a device that emits light. In comparis
 * No more juggling with the keys.
 * Enhances home security.
 
+## SWOT ANALYSIS:
+
+| STRENGTHS:                    | WEAKNESS:                       |
+|-------------------------------|---------------------------------|
+| * Easily available components.| * Not new and advanced.         |
+| * Easily used.                | * Most prefer advanced features.|
+| * User friendly.              |                                 |
+
+| OPPORTUNITIES:                | THREATS:                        |                               
+|-------------------------------|---------------------------------|                                 
+| * Can be used in houses.      | * High competition.             |
+| * High security.              | * May become extinct.           |
+
+
 ## ADVANTAGES:
 
 * High security.
@@ -64,14 +84,6 @@ The term "light emitting diode" refers to a device that emits light. In comparis
 | LLR2 | SWITCH OFF  | IMPLEMENTED |
 | LLR3 | GROUND      | IMPLEMENTED |
 | LLR4 | VOLTAGE     | IMPLEMENTED |
-
-
-
-## OBJECTIVES:
-
-* Door sensor's can be used in may places such as home, hospital,offices etc,.
-* Security is high because we used LED as a indicator.
-* Door sensor's are being used a lot due to its high security.
 
 ## CONCLUSION:
 
