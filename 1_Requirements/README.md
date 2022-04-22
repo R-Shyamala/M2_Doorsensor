@@ -49,12 +49,23 @@ The term "light emitting diode" refers to a device that emits light. In comparis
 ## HIGH LEVEL REQUIREMENTS:
 
 | RID  | DESCRIPTION | STATUS      |
-------------------------------------
+|------|-------------|-------------|
 | HLR1 | C LANGUAGE  | IMPLEMENTED |
 | HLR2 | OS WINDOWS  | IMPLEMENTED |
 | HLR3 | OS LINUX    | IMPLEMENTED |
 | HLR4 | HARD DISK   | IMPLEMENTED |
 | HLR5 | RAM 4GB     | IMPLEMENTED |
+
+## LOW LEVEL REQUIREMENTS
+
+| RID  | DESCRIPTION | STATUS      |
+|------|-------------|-------------|
+| LLR1 | SWITCH ON   | IMPLEMENTED |
+| LLR2 | SWITCH OFF  | IMPLEMENTED |
+| LLR3 | GROUND      | IMPLEMENTED |
+| LLR4 | VOLTAGE     | IMPLEMENTED |
+
+
 
 ## OBJECTIVES:
 
