@@ -55,6 +55,17 @@ The term "light emitting diode" refers to a device that emits light. In comparis
 * Security is high because we used LED as a indicator.
 * Door sensor's are being used a lot due to its high security.
 
+## FLOW CHART:
+ 
+ ![FLOWCHART](https://user-images.githubusercontent.com/101352498/164706707-ba8c1da6-6028-4b44-b6e4-2f04f263f435.png)
+
+ 
+## BLOCK DIAGRAM:
+
+![BLOCK DIAGRAM](https://user-images.githubusercontent.com/101352498/164707972-385f42ef-894d-4ee4-9ad5-59a2bb446164.png)
+
+
+
 ## CONCLUSION:
 
 As the technology is growing the need for security is also growing. In this project i have tried to implement a door sensor in simple way using ATmega microcontroller. It shows our door is open or close by glowing of LED. If the door is open LED will be ON. If the door is closed LED will be OFF. This simple project will be very useful for all of us.
