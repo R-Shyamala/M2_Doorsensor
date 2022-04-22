@@ -46,6 +46,16 @@ The term "light emitting diode" refers to a device that emits light. In comparis
 * Circit damage.
 * LED damage.
 
+## HIGH LEVEL REQUIREMENTS:
+
+| RID  | DESCRIPTION | STATUS      |
+------------------------------------
+| HLR1 | C LANGUAGE  | IMPLEMENTED |
+| HLR2 | OS WINDOWS  | IMPLEMENTED |
+| HLR3 | OS LINUX    | IMPLEMENTED |
+| HLR4 | HARD DISK   | IMPLEMENTED |
+| HLR5 | RAM 4GB     | IMPLEMENTED |
+
 ## OBJECTIVES:
 
 * Door sensor's can be used in may places such as home, hospital,offices etc,.
