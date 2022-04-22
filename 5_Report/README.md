@@ -1,4 +1,7 @@
 # DOORSENSOR
+# ABSTRACT:
+Door sensor is a product that would be used to alert the humans that their houses and offices locked or not. This project is built to overcome the theft problems in our homes and offices. The objective of this project is to build the door sensor circuit. In this project ATmega328 microcontroller is used the microcontroller to control the mechanism of door sensor. Two variadble voltage sources and one fixed voltage source is used. One variable voltage source is connected to atmega328 along with LED. The other variable voltage source is connected to the output pin of atmega328 along with switch. The fixed voltage source is connected to atmega328 microcontroller. When the door is open LED will be ON and it indicate our door is open and we can close it. If our door is closed LED will be OFF. This is the overview of the project "DOOR SENSOR".
+
 ## INTRODUCTION:
 
 Door sensor have been used now-a-days in many hosues.Door sensors are an essential component of our home security system. This can be built easily by using atmega328, the voltage sources, the switch and an LED. Door sensors are mainly used to indicate our house door are closed or not when we go outside with our famil or for some other occasions. 
